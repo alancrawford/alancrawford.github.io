@@ -1,0 +1,15 @@
+# Site Settings
+title: Alan Crawford
+email: a.crawford.11@ucl.ac.uk
+description: >
+  Welcome to my homepage
+baseurl: ""
+url: "https://alancrawford.github.io"
+port: 8080
+github_username:  alancrawford
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM

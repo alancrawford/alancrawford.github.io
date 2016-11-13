@@ -5,6 +5,7 @@ description: >
   Welcome to my homepage
 baseurl: ""
 url: "https://alancrawford.github.io"
+port: 8080
 github_username:  alancrawford
 # Build Settings
 sass:

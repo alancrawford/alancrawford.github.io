@@ -216,12 +216,17 @@ h4 {
     font-weight: bold;
 }
 
+h4norm {
+    font-size: 20px;
+    font-weight: normal;
+}
+
 .intro-hold {
-    h2 {
-        margin-bottom: 30px;
+    h4{
+        margin-bottom: 50px;
     }
-    h3 {
-        margin-bottom: 20px;
+    h4{
+        margin-bottom: 50px;
     }
     .btn--hold {
         margin-top: 30px;

@@ -12,8 +12,8 @@ This paper develops a dynamic discrete-continuous demand model for storable good
 
 ## Work in Progress
 
-##### **[The effect of the financial crisis on bank lending to SMEs]()** joint with Ben Hemingway 
+**[The effect of the financial crisis on bank lending to SMEs]()** joint with Ben Hemingway 
 
-##### **[Storability and alcohol taxation: the demand for beer]()** joint with Lars Nesheim 
+**[Storability and alcohol taxation: the demand for beer]()** joint with Lars Nesheim 
 
-##### **[Ex-post merger evaluation in industries with price dynamics]()**
+**[Ex-post merger evaluation in industries with price dynamics]()**

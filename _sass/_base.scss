@@ -9,7 +9,6 @@ dl, dd, ol, ul, figure {
 }
 
 
-
 /**
  * Basic styling
  */
@@ -22,7 +21,16 @@ body {
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
-
+.btn {
+    &, &:visited{
+        color:#fff;
+    }
+} 
+ul { 
+    list-style: none;
+    padding:0px;
+    margin: 0px!important;
+}
 
 
 /**
@@ -154,8 +162,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(1200px - (#{$spacing-unit} * 2));
+    max-width:         calc(1200px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -163,8 +171,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(1200px - (#{$spacing-unit}));
+        max-width:         calc(1200px - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
@@ -200,5 +208,22 @@ pre {
         path {
             fill: $grey-color;
         }
+    }
+}
+
+
+h4 {
+    font-weight: bold;
+}
+
+.intro-hold {
+    h2 {
+        margin-bottom: 30px;
+    }
+    h3 {
+        margin-bottom: 20px;
+    }
+    .btn--hold {
+        margin-top: 30px;
     }
 }

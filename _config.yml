@@ -6,6 +6,7 @@ description: >
 baseurl: ""
 url: "https://alancrawford.github.io"
 github_username:  alancrawford
+port: 8080
 # Build Settings
 sass:
   sass_dir: _sass

@@ -1,0 +1,713 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\begin_preamble
+
+\usepackage{tabularx}
+\usepackage{hyperref}
+\usepackage{multicol, blindtext}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+Alan Crawford 
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\lang american
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+CEMMAP 
+\backslash
+hfill November 2016
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+Institute for Fiscal Studies 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+7 Ridgmount Street 
+\backslash
+hfill Tel: +44 (0)7921 459 742 
+\backslash
+
+\backslash
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+London 
+\backslash
+hfill  Email: 
+\backslash
+href{mailto:a.crawford.11@ucl.ac.uk}{a.crawford.11@ucl.ac.uk} 
+\backslash
+
+\backslash
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+WC1E 7AE 
+\backslash
+hfill Website: 
+\backslash
+href{https://alancrawford.github.io}{alancrawford.github.io} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+\paragraph_spacing single
+Education
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2012-17
+\size default
+ Ph.D.
+ Economics, University College London
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2011-12
+\size default
+ MRes.
+ Economics, University College London
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2004-05
+\size default
+ MPhil.
+ Economics with Finance, Cambridge University
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+1999-02
+\size default
+ BSc.
+ Economics, London School of Economics
+\end_layout
+
+\begin_layout Subsubsection*
+Research Interests
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Empirical Industrial Organisation, Computational Economics, Applied Economics
+\end_layout
+
+\begin_layout Subsubsection*
+Scholarships
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2011-2015
+\size default
+ Advanced Quantitative Methods Scholarship, ESRC
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2011-2015
+\size default
+ UCL Studentship, ESRC
+\end_layout
+
+\begin_layout Subsubsection*
+Professional Experience
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2011-15
+\size default
+ Economic Advisor, SEEC
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2005-11
+\size default
+ Consultant, RBB Economics LLP
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2002-04
+\size default
+ Analyst, London Economics
+\end_layout
+
+\begin_layout Subsubsection*
+Teaching Experience
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\size small
+2015-2016
+\size default
+ Ph.D.
+ Computational Methods
+\end_layout
+
+\begin_layout Subsubsection*
+Working Papers
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Quotes eld
+\end_inset
+
+Dynamic demand estimation for storable goods
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\size small
+This paper develops a dynamic discrete-continuous demand model for storable
+ goods - a class of goods that account for a large fraction of grocery expenditu
+res.
+ 
+\lang british
+To estimate and solve the dynamic demand model, we use techniques from:
+ (i) Approximate Dynamic Programming, (ii) large scale dynamic programming
+ in economics, (iii) machine learning, and (iv) statistical computing.
+ 
+\lang english
+The benefits of this approach are three-fold.
+ First, the dynamic demand model is compatible high-dimensional choice sets.
+ Second, it can capture rich inter- and intra-temporal substitution patterns.
+ Third, the dimension reduction strategies do not rely on the idiosyncratic
+ features of the industry being studied.
+ As a result, it can be estimated for any storable good industry.
+ In this paper we apply the model to the UK laundry detergent sector using
+ household level purchase data.
+\end_layout
+
+\begin_layout Subsubsection*
+Work in Progress
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Quotes eld
+\end_inset
+
+The effect of the financial crisis on bank lending to SMEs
+\begin_inset Quotes erd
+\end_inset
+
+
+\series default
+ joint with Ben Hemingway
+\end_layout
+
+\begin_layout Quote
+
+\size small
+In this paper we develop a model of bank lending to small-to-medium enterprises
+ (SMEs).
+ Combining a bi-annual survey of European SME financing decisions with a
+ contemporaneous EU-wide banking conditions survey, we empirical evaluate
+ the determinants of successful loan applications during the financial crisis.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\noindent
+
+\series bold
+\begin_inset Quotes eld
+\end_inset
+
+Storability, addiction and alcohol taxation: the demand for beer
+\begin_inset Quotes erd
+\end_inset
+
+
+\series default
+ joint with Lars Nesheim
+\end_layout
+
+\begin_layout Quote
+\paragraph_spacing single
+
+\size small
+We develop a dynamic demand framework in which consumers can stock alcohol
+ for future consumption and incorporate their price expectations when making
+ purchases.
+ In addition, by including for habit formation we allow consumption and
+ purchase decisions to be driven by an individuals' proclivity to succumb
+ to the addictive nature of alcohol.
+ Using this dynamic demand framework, we explore the impact on consumption
+ of alcohol price restrictions that limit the depth and/or frequency of
+ promotional activity.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\noindent
+
+\series bold
+\begin_inset Quotes eld
+\end_inset
+
+Ex-post merger evaluation in industries with price dynamics
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\paragraph_spacing single
+\noindent
+
+\size small
+For storable goods, price dynamics are a key component of consumer demand.
+ This paper examines whether a change in industry structure not only impacts
+ on the price level, but also on price dynamics.
+ To this end we conduct an ex-post evaluation of a merger between Heinz
+ and HP - two large UK table sauce manufacturers.
+ Using the methodology developed by Cheng, Liao and Schorfheide (2015),
+ we investigate whether there were structural changes to a low rank approximatio
+n to price dynamics in the UK table sauces industry following the merger.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+References
+\begin_inset Newline newline
+\end_inset
+
+
+\lang american
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+normalsize
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+rmfamily	
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+newcolumntype{Y}{>{
+\backslash
+raggedleft
+\backslash
+arraybackslash}X}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{tabularx} {13cm} {@{} l l @{}} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+textbf{Dr.
+ Lars Nesheim} & 
+\backslash
+textbf{Prof.
+ Dennis Kristensen} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+Dept.
+ of Economics & Dept.
+ of Economics 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+University College London & University College London 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+30 Gordon Street & 30 Gordon Street 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+London & London  
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+WC1H 0AX & WC1H 0AX  
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+href{mailto:l.nesheim@ucl.ac.uk}{l.nesheim@ucl.ac.uk} & 
+\backslash
+href{mailto:d.kristensen@ucl.ac.uk}{d.kristensen@ucl.ac.uk} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{tabularx}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+rmfamily
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+normalsize
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

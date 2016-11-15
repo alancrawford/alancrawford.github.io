@@ -14,6 +14,12 @@ This paper develops a dynamic discrete-continuous demand model for storable good
 
 **The effect of the financial crisis on bank lending to SMEs** joint with Ben Hemingway 
 
-**Storability and alcohol taxation: the demand for beer** joint with Lars Nesheim 
+In this paper we develop a model of bank lending to small-to-medium enterprises (SMEs). Combining a bi-annual survey of European SME financing decisions with a contemporaneous EU-wide banking conditions survey, we empirical evaluate the determinants of successful loan applications during the financial crisis.
 
-**Ex-post merger evaluation in industries with price dynamics**
+**Storability, addiction and alcohol taxation** joint with Lars Nesheim  
+
+We develop a dynamic demand framework in which consumers can stock alcohol for future consumption and incorporate their price expectations when making purchases. In addition, by including for habit formation we allow consumption and purchase decisions to be driven by an individuals' proclivity to succumb to the addictive nature of alcohol. Using this dynamic demand framework, we explore the impact on consumption of alcohol price restrictions that limit the depth and/or frequency of promotional activity. 
+
+**Industry structure and price dynamics in storable good industries**
+
+For storable goods, price dynamics are a key component of consumer demand. This paper examines whether a change in industry structure not only impacts on the price level, but also on price dynamics. To this end we conduct an ex-post evaluation of a merger between Heinz and HP - two large UK table sauce manufacturers. Using the methodology developed by Cheng, Liao and Schorfheide (2015), we investigate whether there were structural changes to a low rank approximation to price dynamics in the UK table sauces industry following the merger. 

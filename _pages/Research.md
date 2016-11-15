@@ -18,7 +18,7 @@ In this paper we develop a model of bank lending to small-to-medium enterprises 
 
 **Storability, addiction and alcohol taxation** joint with Lars Nesheim  
 
-We develop a dynamic demand framework in which consumers can stock alcohol for future consumption and incorporate their price expectations when making purchases. In addition, by including for habit formation we allow consumption and purchase decisions to be driven by an individuals' proclivity to succumb to the addictive nature of alcohol. Using this dynamic demand framework, we explore the impact on consumption of alcohol price restrictions that limit the depth and/or frequency of promotional activity. 
+We develop a dynamic demand framework in which consumers can stock alcohol for future consumption and incorporate their price expectations when making purchases. In addition, by including habit formation we allow consumption and purchase decisions to be driven by an individuals' proclivity to succumb to the addictive nature of alcohol. Using this dynamic demand framework, we explore the impact on consumption of alcohol price restrictions that limit the depth and frequency of promotional activity. 
 
 **Industry structure and price dynamics in storable good industries**
 

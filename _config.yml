@@ -15,4 +15,3 @@ include: ['_pages']
 kramdown:
   input: GFM
 plugins: [jekyll-seo-tag]
-google_site_verification

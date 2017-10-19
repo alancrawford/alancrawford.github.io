@@ -2,7 +2,7 @@
 title: Alan Crawford
 email: a.crawford.11@ucl.ac.uk
 description: >
-  Alan Crawford personal homepage
+  Alan Crawford Economics Personal Homepage
 author: Alan Crawford
 baseurl: ""
 url: "https://alancrawford.github.io"
@@ -14,5 +14,5 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
-plugins:
-  - jekyll-seo-tag
+plugins: [jekyll-seo-tag]
+google_site_verification

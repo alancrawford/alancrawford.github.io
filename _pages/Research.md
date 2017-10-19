@@ -4,11 +4,17 @@ title: Research
 permalink: /Research/
 ---
 
+## Job Market Paper
+
+#### **Dynamic demand estiamtion for storable goods**
+
+This paper develops a dynamic discrete-continuous demand model for storable goods - a class of goods that account for a large fraction of grocery expenditures. To estimate and solve the dynamic demand model, we use techniques from: (i) Approximate Dynamic Programming, (ii) large scale dynamic programming in economics, (iii) machine learning, and (iv) statistical computing. The benefits of this approach are three-fold. First, the dynamic demand model relaxes assumptions of existing models while retaining computational feasibility. Second, it can capture rich inter- and intra-temporal substitution patterns. Third, it can incorporate high-dimensional choice sets. As a result, the model is easily adapted to other storable good industries - widening the applicability of this class of demand models. In this paper we apply the model to the UK laundry detergent sector using household level purchase data.
+
 ## Working Papers
 
-#### **Dynamic demand for storable goods**
+#### **Approximating demand dynamics in antitrust policy**
 
-This paper develops a dynamic discrete-continuous demand model for storable goods - a class of goods that account for a large fraction of grocery expenditures. To estimate and solve the dynamic demand model, we use techniques from: (i) Approximate Dynamic Programming (ADP), (ii) large scale dynamic programming in economics, (iii) machine learning, and (iv) statistical computing. The benefits of this approach are three-fold. First, the dynamic demand model is compatible high-dimensional choice sets. Second, it can capture rich inter- and intra-temporal substitution patterns. Third, the dimension reduction strategies do not rely on the idiosyncratic features of the industry being studied. As a result, it can be estimated for any storable good industry. In this paper we apply the model to the UK laundry detergent sector using household level purchase data.
+The use of accounting margins in empirical analysis in antitrust policy is rising due to the increasing popularity of merger screening tools. This paper shows how these margins can be combined with static demand estimation to approximate the long-run dynamic diversion ratios used for policy analysis. Beneficially, the severe bias associated with diversion ratios from a static model are reduced with minimal additional implementation costs. To illustrate this method, I assess whether anti-competitive conduct in mainland Europe laundry detergent industry had any spillover effects on the UK laundry detergent market.
 
 ## Work in Progress
 
@@ -16,9 +22,9 @@ This paper develops a dynamic discrete-continuous demand model for storable good
 
 In this paper we develop a model of bank lending to small-to-medium enterprises (SMEs). Combining a bi-annual survey of European SME financing decisions with a contemporaneous EU-wide banking conditions survey, we empirical evaluate the determinants of successful loan applications during the financial crisis.
 
-**Storability, addiction and alcohol taxation** joint with Lars Nesheim  
+**Storability and alcohol taxation** joint with Lars Nesheim  
 
-We develop a dynamic demand framework in which consumers can stock alcohol for future consumption and incorporate their price expectations when making purchases. In addition, by including habit formation we allow consumption and purchase decisions to be driven by an individuals' proclivity to succumb to the addictive nature of alcohol. Using this dynamic demand framework, we explore the impact on consumption of alcohol price restrictions that limit the depth and frequency of promotional activity. 
+We develop a dynamic demand framework in which consumers can stock alcohol for future consumption and incorporate their price expectations when making purchases.  Using this dynamic demand framework, we explore the impact on consumption of alcohol price restrictions that limit the depth and frequency of promotional activity. 
 
 **Industry structure and price dynamics in storable good industries**
 

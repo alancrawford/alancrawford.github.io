@@ -6,7 +6,7 @@ permalink: /Research/
 
 ## Job Market Paper
 
-#### **Dynamic demand estiamtion for storable goods**
+#### **Dynamic demand estimation for storable goods**
 
 This paper develops a dynamic discrete-continuous demand model for storable goods - a class of goods that account for a large fraction of grocery expenditures. To estimate and solve the dynamic demand model, we use techniques from: (i) Approximate Dynamic Programming, (ii) large scale dynamic programming in economics, (iii) machine learning, and (iv) statistical computing. The benefits of this approach are three-fold. First, the dynamic demand model relaxes assumptions of existing models while retaining computational feasibility. Second, it can capture rich inter- and intra-temporal substitution patterns. Third, it can incorporate high-dimensional choice sets. As a result, the model is easily adapted to other storable good industries - widening the applicability of this class of demand models. In this paper we apply the model to the UK laundry detergent sector using household level purchase data.
 

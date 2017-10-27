@@ -8,13 +8,13 @@ permalink: /Research/
 
 #### **Dynamic demand estimation for storable goods**
 
-This paper develops a dynamic discrete-continuous demand model for storable goods - a class of goods that account for a large fraction of grocery expenditures. To estimate and solve the dynamic demand model, we use techniques from: (i) Approximate Dynamic Programming, (ii) large scale dynamic programming in economics, (iii) machine learning, and (iv) statistical computing. The benefits of this approach are three-fold. First, the dynamic demand model relaxes assumptions of existing models while retaining computational feasibility. Second, it can capture rich inter- and intra-temporal substitution patterns. Third, it can incorporate high-dimensional choice sets. As a result, the model is easily adapted to other storable good industries - widening the applicability of this class of demand models. In this paper we apply the model to the UK laundry detergent sector using household level purchase data.
+This paper develops a dynamic discrete-continuous demand model for storable goods - a class of goods that account for a large fraction of grocery expenditures. The dynamic demand model relaxes assumptions of existing models while retaining computational tractability. As a result, it can flexibly capture inter- and intra-temporal substitution patterns and allow for a richer understanding of dynamic consumer behaviour. In addition, it provides a framework with wide applicability. To estimate and solve the dynamic demand model, I use techniques from approximate dynamic programming, large scale dynamic programming in economics, machine learning, and statistical computing. In this paper I apply the model to the UK laundry detergent sector using household level purchase data.
 
 ## Working Papers
 
 #### **Approximating demand dynamics in antitrust policy**
 
-The use of accounting margins in empirical analysis in antitrust policy is rising due to the increasing popularity of merger screening tools. This paper shows how these margins can be combined with static demand estimation to approximate the long-run dynamic diversion ratios used for policy analysis. Beneficially, the severe bias associated with diversion ratios from a static model are reduced with minimal additional implementation costs. To illustrate this method, I assess whether anti-competitive conduct in mainland Europe laundry detergent industry had any spillover effects on the UK laundry detergent market.
+The use of accounting margins in empirical analysis in antitrust policy is rising due to the increasing popularity of merger screening tools. This paper shows how these margins can be combined with static demand estimation to approximate the long-run dynamic diversion ratios used for policy analysis. Beneficially, the bias associated with diversion ratios from a static demand model are reduced with minimal additional implementation costs.  To illustrate this method, I assess whether anti-competitive conduct in mainland Europe laundry detergent industry had any spillover effects on the UK laundry detergent market.
 
 ## Work in Progress
 

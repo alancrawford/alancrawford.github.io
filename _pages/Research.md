@@ -20,7 +20,7 @@ The use of accounting margins in empirical analysis in antitrust policy is risin
 
 **The effect of the financial crisis on bank lending to SMEs** joint with Ben Hemingway 
 
-In this paper we develop a model of bank lending to small-to-medium enterprises (SMEs). Combining a bi-annual survey of European SME financing decisions with a contemporaneous EU-wide banking conditions survey, we empirical evaluate the determinants of successful loan applications during the financial crisis.
+In this paper we develop a model of bank lending to small-to-medium enterprises (SMEs). Combining a bi-annual survey of European SME financing decisions with a contemporaneous EU-wide banking conditions survey, we empirically evaluate the determinants of successful loan applications during the financial crisis.
 
 **Storability and alcohol taxation** joint with Lars Nesheim  
 
@@ -28,4 +28,4 @@ We develop a dynamic demand framework in which consumers can stock alcohol for f
 
 **Industry structure and price dynamics in storable good industries**
 
-For storable goods, price dynamics are a key component of consumer demand. This paper examines whether a change in industry structure not only impacts on the price level, but also on price dynamics. To this end we conduct an ex-post evaluation of a merger between Heinz and HP - two large UK table sauce manufacturers. Using the methodology developed by Cheng, Liao and Schorfheide (2015), we investigate whether there were structural changes to a low rank approximation to price dynamics in the UK table sauces industry following the merger. 
+For storable goods, price dynamics are a key component of consumer demand. This paper examines whether a change in industry structure not only impacts on the price level, but also on price dynamics. To this end we conduct an ex-post evaluation of a merger between Heinz and HP - two large UK table sauce manufacturers. Using the methodology developed by Cheng, Liao and Schorfheide (2015), I investigate whether there were structural changes to a low rank approximation to price dynamics in the UK table sauces industry following the merger. 

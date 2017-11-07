@@ -6,9 +6,9 @@ permalink: /Research/
 
 ## Job Market Paper
 
-#### **Dynamic demand estimation for storable goods**
+#### **[High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods](../assets/workingpapers/AlanCrawfordJMP.pdf)**
 
-This paper develops a dynamic discrete-continuous demand model for storable goods - a class of goods that account for a large fraction of grocery expenditures. The dynamic demand model relaxes assumptions of existing models while retaining computational tractability. As a result, it can flexibly capture inter- and intra-temporal substitution patterns and allow for a richer understanding of dynamic consumer behaviour. In addition, it provides a framework with wide applicability. To estimate and solve the dynamic demand model, I use techniques from approximate dynamic programming, large scale dynamic programming in economics, machine learning, and statistical computing. In this paper I apply the model to the UK laundry detergent sector using household level purchase data.
+This paper develops a high-dimensional dynamic discrete-continuous demand model for storable fast moving consumer goods. Assumptions of existing models are relaxed while retaining computational tractability. As a result, the model captures rich inter- and intra-temporal substitution patterns, allows for a detailed understanding of dynamic consumer behaviour, and provides a framework with wide applicability. To estimate and solve the dynamic demand model, I use techniques from approximate dynamic programming, large-scale dynamic programming in economics, machine learning, and statistical computing. In this paper I apply the model to the UK laundry detergent sector using household level purchase data.
 
 ## Working Papers
 

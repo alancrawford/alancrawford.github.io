@@ -14,7 +14,7 @@ This paper develops a high-dimensional dynamic discrete-continuous demand model 
 
 #### **Approximating demand dynamics in antitrust policy**
 
-The use of accounting margins in empirical analysis in antitrust policy is rising due to the increasing popularity of merger screening tools. This paper shows how these margins can be combined with static demand estimation to approximate the long-run dynamic diversion ratios used for policy analysis. Beneficially, the bias associated with diversion ratios from a static demand model are reduced with minimal additional implementation costs.  To illustrate this method, I assess whether anti-competitive conduct in mainland Europe laundry detergent industry had any spillover effects on the UK laundry detergent market.
+The use of accounting margins in empirical analysis of antitrust policy is rising due to the increasing popularity of merger screening tools. This paper shows how these margins can be combined with static demand estimation to approximate the long-run dynamic diversion ratios used for policy analysis. Beneficially, the bias associated with diversion ratios from a static demand model are reduced with minimal additional implementation costs.  To illustrate this method, I assess whether anti-competitive conduct in mainland Europe laundry detergent industry had any spillover effects on the UK laundry detergent market.
 
 ## Work in Progress
 

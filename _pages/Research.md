@@ -6,13 +6,17 @@ permalink: /Research/
 
 ## Working Papers
 
-#### High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods [new version soon]
+#### High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods 
+
+_New version coming soon_
 
 <!--**[High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods](../assets/workingpapers/AlanCrawfordJMP.pdf)**-->
 
 This paper develops a high-dimensional dynamic discrete-continuous demand model for storable fast moving consumer goods. Assumptions of existing models are relaxed while retaining computational tractability. As a result, the model captures rich inter- and intra-temporal substitution patterns, allows for a detailed understanding of dynamic consumer behaviour, and provides a framework with wide applicability. To estimate and solve the dynamic demand model, I use techniques from approximate dynamic programming, large-scale dynamic programming in economics, machine learning, and statistical computing. In this paper I apply the model to the UK laundry detergent sector using household level purchase data.
 
-#### Approximating demand dynamics in antitrust policy [new version soon]
+#### Approximating demand dynamics in antitrust policy 
+
+_New version coming soon_
 
 <!--**[Approximating demand dynamics in antitrust policy](../assets/workingpapers/Crawford_AppxDemandDynamics.pdf)**-->
 

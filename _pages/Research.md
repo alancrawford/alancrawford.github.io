@@ -6,7 +6,12 @@ permalink: /Research/
 
 ## Working Papers
 
-**[Approximating demand dynamics in antitrust policy](../assets/workingpapers/CrawfordAR_(March_2019)_Appx_Demand_Dynamics.pdf)**
+#### Approximating demand dynamics in antitrust policy
+
+_New version coming soon_
+
+<!--**[Approximating demand dynamics in antitrust policy](../assets/workingpapers/CrawfordAR_(March_2019)_Appx_Demand_Dynamics.pdf)**
+-->
 
 Empirical analysis for antitrust policy commonly uses accounting margins as inputs into merger screening tools. This paper shows how these margins can be combined with a static demand model to estimate a set of price elasticities for storable goods that are consistent with dynamic demand responses to permanent, rather than transitory price changes. As a result, demand dynamics that create inter-temporal substitution for storable goods are better captured by the resulting set of price elasticities. To illustrate this method, I apply it to the UK laundry detergent industry from 2002 to 2012. I present evidence that product innovations in this industry that lower storage costs affect demand dynamics and hence the degree of bias of price elasticities that come from static demand models. I also show how adjusting price elasticities to reflect demand dynamics can lead to different policy conclusions. I illustrate this by assessing whether there is any evidence that anti-competitive conduct of a laundry detergent cartel in mainland Europe had any effect on the UK laundry detergent market.
 

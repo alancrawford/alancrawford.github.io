@@ -6,14 +6,11 @@ permalink: /Research/
 
 ## Working Papers
 
-#### Approximating demand dynamics in antitrust policy
+#### Approximating demand dynamics in storable good industries
 
-_New version coming soon_
+**[Approximating demand dynamics in storable good industries](../assets/workingpapers/CrawfordAR (2020) Approximating Demand Dyanmics for Storable goods.pdf)**
 
-<!--**[Approximating demand dynamics in antitrust policy](../assets/workingpapers/CrawfordAR_(March_2019)_Appx_Demand_Dynamics.pdf)**
--->
-
-Empirical analysis for antitrust policy commonly uses accounting margins as inputs into merger screening tools. This paper shows how these margins can be combined with a static demand model to estimate a set of price elasticities for storable goods that are consistent with dynamic demand responses to permanent, rather than transitory price changes. As a result, demand dynamics that create inter-temporal substitution for storable goods are better captured by the resulting set of price elasticities. To illustrate this method, I apply it to the UK laundry detergent industry from 2002 to 2012. I present evidence that product innovations in this industry that lower storage costs affect demand dynamics and hence the degree of bias of price elasticities that come from static demand models. I also show how adjusting price elasticities to reflect demand dynamics can lead to different policy conclusions. I illustrate this by assessing whether there is any evidence that anti-competitive conduct of a laundry detergent cartel in mainland Europe had any effect on the UK laundry detergent market.
+This paper develops a new approach that combines firm margins, market-level industry data and a static demand model to construct sets containing unbiased estimates of long-run price elasticities for storable good industries. It obviates the need to solve the consumer's value function and can be completed within policy-making timeframe. This methodology allows for contemporaneous and inter-temporal substitution patterns to be measured by dynamic diversion ratios. Together with the margins, these are key inputs into a new price pressure test for unilateral effects arising from mergers in industries with dynamic demand. This framework is applied to the UK laundry detergent industry from 2002 to 2012. I conduct two policy experiments that show how estimated sets of bias-corrected price elasticities and diversion ratios avoid misguided policy-decisions. The first experiment uses the newly developed price pressure test to examine a hypothetical brand acquisition. The other assesses whether there is any evidence that anti-competitive conduct of a laundry detergent cartel in mainland Europe had any effect in the UK. Both experiments demonstrate the efficacy of set-valued policy tools.
 
 #### High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods 
 

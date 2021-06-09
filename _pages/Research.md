@@ -6,7 +6,12 @@ permalink: /Research/
 
 ## Working Papers
 
-#### [Approximating demand dynamics in storable good industries](../assets/workingpapers/CrawfordAR (2020) Approximating Demand Dynamics for Storable goods.pdf)
+#### Approximating demand dynamics in storable good industries
+
+_New version coming soon_
+
+<!--#### [Approximating demand dynamics in storable good industries](../assets/workingpapers/CrawfordAR (2020) Approximating Demand Dynamics for Storable goods.pdf)
+-->
 
 This paper develops a new approach that combines firm margins, market-level industry data and a static demand model to construct sets containing unbiased estimates of long-run price elasticities for storable good industries. It obviates the need to solve the consumer's value function and can be completed within a policy-making timeframe. This methodology allows for the effect of contemporaneous and inter-temporal substitution on pricing incentives to be measured by dynamic diversion ratios. Together with the margins, these are key inputs into a new price pressure test for mergers in industries with dynamic demand. This framework is applied to the UK laundry detergent industry from 2002 to 2012. I conduct two policy experiments that show how estimated sets of bias-corrected price elasticities and diversion ratios can be used to avoid misguided policy-decisions. In both cases demonstrating the efficacy of set-valued policy tools.
 

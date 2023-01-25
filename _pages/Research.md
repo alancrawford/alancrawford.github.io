@@ -6,11 +6,17 @@ permalink: /Research/
 
 ## Working Papers
 
-#### [Approximating demand dynamics in storable good industries](../assets/workingpapers/CrawfordAR (2021) Approximating Demand Dynamics for Storable goods.pdf)
+**[Estimating dynamic diversion ratios in storable good industries](../assets/workingpapers/CrawfordAR (2023) Estimating dynamic diversion ratios in storable good industries.pdf)**
 
-This paper develops a new approach that combines firm margins, market-level industry data and a static demand model to construct sets containing unbiased estimates of long-run price elasticities for storable good industries. It obviates the need to solve the consumer's value function and can be completed within a policy-making timeframe. This methodology allows for the effect of contemporaneous and inter-temporal substitution on pricing incentives to be measured by dynamic diversion ratios. Together with the margins, these are key inputs into a new price pressure test for mergers in industries with dynamic demand. This framework is applied to the UK laundry detergent industry from 2002 to 2012. I conduct two policy experiments that show how estimated sets of bias-corrected price elasticities and diversion ratios can be used to avoid misguided policy-decisions. In both cases demonstrating the efficacy of set-valued policy tools.
+[Online Appendix](../assets/workingpapers/CrawfordAR (2023) Estimating dynamic diversion ratios in storable good industries - Online Appdx.pdf)
 
-#### High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods 
+This article estimates value-based dynamic diversion ratios capturing the influence of both contemporaneous and inter-temporal substitution on forward-looking storable goods firms' pricing incentives. They are key inputs in a new dynamic upwards price pressure test, dGUPPI. The estimation procedure obviates the need to estimate consumers' dynamic demand function and is computable within a policy-making timeframe. To illustrate its practical use to policymakers, it is applied to the UK laundry detergent industry from 2002 to 2012. Estimated bounds on the dynamic diverted value ratios calculate set-valued dGUPPI to assess the likelihood that anticompetitive effects arise in a hypothetical brand acquisition.
+
+**High dimensional high frequency retail price dynamics: accounting for missing prices and quantities** joint with Lars Nesheim
+
+We use scanner data to study the dynamics of prices and quantities in a high dimensional setting. In this setting, there are large missing data problems due to sample selection. We develop a method to solve these missing data problems. Our solution is to develop a “low rank” factor model to capture the dynamics. We assume that the dynamics of high dimensional prices and consumer demand are jointly driven by a common set of low-dimensional factors. These factors evolve according to a simple autoregressive model. In addition, we model the price process using a switching model with switching between a “regular price” process and a “sale price” process. We then analyse the implications for price index calculation and for demand estimation.
+
+**High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods**
 
 _New version coming soon_
 

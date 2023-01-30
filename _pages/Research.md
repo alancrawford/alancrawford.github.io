@@ -10,7 +10,7 @@ permalink: /Research/
 
 [Online Appendix](../assets/workingpapers/CrawfordAR (2023) Estimating dynamic diversion ratios in storable good industries - Online Appdx.pdf)
 
-This article estimates value-based dynamic diversion ratios capturing the influence of both contemporaneous and inter-temporal substitution on forward-looking storable goods firms' pricing incentives. They are key inputs in a new dynamic upwards price pressure test, dGUPPI. The estimation procedure obviates the need to estimate consumers' dynamic demand function and is computable within a policy-making timeframe. To illustrate its practical use to policymakers, it is applied to the UK laundry detergent industry from 2002 to 2012. Estimated bounds on the dynamic diverted value ratios calculate set-valued dGUPPI to assess the likelihood that anticompetitive effects arise in a hypothetical brand acquisition.
+This article estimates diversion ratios capturing the influence of dynamic substitution patterns on forward-looking storable goods firms' profits. These dynamic diverted value ratios are key inputs in a new dynamic upwards price pressure test, dGUPPI. This new method obviates the need to estimate consumers' dynamic demand function and is computable within a policy-making timeframe. To illustrate its practical use to policymakers, it is applied to the UK laundry detergent industry from 2002 to 2012. Estimated bounds on the dynamic diverted value ratios calculate set-valued dGUPPI that overturn standard static empirical policy tools that would incorrectly permit an anticompetitive hypothetical merger. 
 
 **High dimensional high frequency retail price dynamics: accounting for missing prices and quantities** joint with Lars Nesheim
 

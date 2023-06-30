@@ -6,9 +6,9 @@ permalink: /Research/
 
 ## Working Papers
 
-**[Estimating dynamic diversion ratios in storable good industries](../assets/workingpapers/CrawfordAR (June 2023) Estimating dynamic diversion ratios in storable good industries.pdf)**
+**[Estimating dynamic diversion ratios in storable good industries](../assets/workingpapers/CrawfordAR (June 2023) EDDR.pdf)**
 
-[Online Appendix](../assets/workingpapers/CrawfordAR (June 2023) Estimating dynamic diversion ratios in storable good industries - Online Appdx.pdf)
+[Online Appendix](../assets/workingpapers/CrawfordAR (June 2023) EDDR - Online Appdx.pdf)
 
 This paper estimates diversion ratios capturing the influence of dynamic substitution patterns on forward-looking storable goods firms' profits. These dynamic diverted value ratios are key inputs in a new dynamic upwards price pressure test, dGUPPI. This new method obviates the need to estimate consumers' dynamic demand functions and is computable within a policy-making timeframe. To illustrate its practical use to policymakers, it is applied to the UK laundry detergent industry from 2002 to 2012. Estimated bounds on the dynamic diverted value ratios calculate set-valued dGUPPI that overturn standard static empirical policy tools that would incorrectly permit an anticompetitive hypothetical merger.  
 

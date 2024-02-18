@@ -27,8 +27,4 @@ This paper develops a high-dimensional dynamic discrete-continuous demand model 
 
 ## Work in Progress
 
-**Storability and alcohol taxation** joint with Lars Nesheim  
-
-**Industry structure and price dynamics in storable good industries**
-
 **The effect of the financial crisis on bank lending to SMEs** joint with Ben Hemingway 

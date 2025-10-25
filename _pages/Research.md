@@ -18,13 +18,13 @@ We use scanner data to study the dynamics of prices and quantities in a high dim
 
 **High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods**
 
-_New version coming soon_
-
 <!--**[High-dimensional inventories and consumer dynamics: demand estimation for fast moving consumer goods](../assets/workingpapers/AlanCrawfordJMP.pdf)**-->
 
 This paper develops a high-dimensional dynamic discrete-continuous demand model for storable fast moving consumer goods. Assumptions of existing models are relaxed while retaining computational tractability. As a result, the model captures rich inter- and intra-temporal substitution patterns, allows for a detailed understanding of dynamic consumer behaviour, and provides a framework with wide applicability. To estimate and solve the dynamic demand model, I use techniques from approximate dynamic programming, large-scale dynamic programming in economics, machine learning, and statistical computing. In this paper I apply the model to the UK laundry detergent sector using household level purchase data.
 
 
-## Work in Progress
+## Publications
 
-**The effect of the financial crisis on bank lending to SMEs** joint with Ben Hemingway 
+**[Recent Developments at the CMA: 2024–25](https://link.springer.com/article/10.1007/s11151-025-10037-x)** joint with A. Thakrar, C. Colebrook, A. Rincon Aznar, J. Schneebacher, L. Akhoundova & M. Walker. Review of Industrial Organization (forthcoming), (2025) 
+
+**[Recent Developments at the CMA: 2023–24](https://link.springer.com/article/10.1007/s11151-024-09996-4)** joint with A. Cellan-Jones, O. Norden, J. Bon, M. Walker & D. Westrik. Review of Industrial Organization, 65, 907–932, (2024). 
